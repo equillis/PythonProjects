@@ -1,2 +1,0 @@
-# PythonProjects
-Python learning projects 
